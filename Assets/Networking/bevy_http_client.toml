@@ -1,0 +1,3 @@
+name = "bevy_http_client"
+description = "A simple HTTP client Bevy Plugin for both native and WASM"
+link = "https://github.com/foxzool/bevy_http_client"
